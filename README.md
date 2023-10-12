@@ -38,6 +38,7 @@ pip install web3-multicall
 
 ```
 example:
+
   "eoa_wallet":[
       "0xd9fAbCb0BA8852AeCf59d0c0A577383Ec621066E",
       "0xDED7D851A245466B3e8EF738dC300A780bA50735",
