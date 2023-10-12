@@ -3,6 +3,13 @@ Python Cryptoblades Account Tracker (CBTracker)
 
 I decided to create this when the original cbtracker became paid. Hope you can enjoy it.
 
+## notes
+```
+Only supports BSC at the moment.
+Only supports Gen1 Characters and Skill Token at the moment.
+```
+
+
 ## requirement
 ```
 - Python 3.10.6
@@ -60,3 +67,7 @@ If account has more than 8 unclaimed skills it will considered as Claimable Skil
 - All Wallet Total Skill (sum)
 - All Wallet Total BNB (sum)
 ```
+
+
+## Buy me a coffee :)
+BSC/ETH/Polygon BEP-20 Address: ```0xd9fAbCb0BA8852AeCf59d0c0A577383Ec621066E```
