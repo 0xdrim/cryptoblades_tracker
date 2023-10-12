@@ -33,7 +33,7 @@ pip install web3-multicall
 ## how to use
 
 #### 1   - Open `cbtracker_config.json` with your preferred text editor (I recommend VSCode or Notepad++)
-#### 2.1 - Paste your BSC RPC Node at "user_settings" > "bsc_node" inside the ``""`` (please use HTTP node)
+#### 2.1 - Paste your BSC RPC Node at ``"user_settings" > "bsc_node"`` inside the ``""`` (please use HTTP node)
 #### 2.2 - Paste all your cryptoblades account wallet address at "eoa_wallet" separated with ``","`` (do not place ``","`` at last address)
 
 ```example
@@ -62,7 +62,7 @@ If account has more than 8 unclaimed skills it will considered as Claimable Skil
 -------------------------------------------------
 
 - Available/Total Monthly Pool
-- Current Multiplier (If doens't has multiplier it will show as 0.50x)
+- Current Multiplier (If doesn't has multiplier it will show as 0.50x)
 - Unclaimed Skill | Unclaimed with current Multiplier | Total Claimable Skill (Ready) | Amount of Claimable Wallets
 - All Wallet Total Skill (sum)
 - All Wallet Total BNB (sum)
