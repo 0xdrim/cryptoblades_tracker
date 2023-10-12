@@ -36,11 +36,12 @@ pip install web3-multicall
 #### 2.1 - Paste your BSC RPC Node at ``"user_settings" > "bsc_node"`` inside the ``""`` (please use HTTP node)
 #### 2.2 - Paste all your cryptoblades account wallet address at ``"eoa_wallet"`` separated with ``","`` (do not place ``","`` at last address)
 
-```example
+```
+example:
   "eoa_wallet":[
-      "0x00000001",
-      "0x00000002",
-      "0x00000003"
+      "0xd9fAbCb0BA8852AeCf59d0c0A577383Ec621066E",
+      "0xDED7D851A245466B3e8EF738dC300A780bA50735",
+      "0xB1f3Ba3cfc0247EDDa0797d379f40C975A260dd7"
   ]
 ```
 #### 3   - Save and run ```python cbtracker.py```
